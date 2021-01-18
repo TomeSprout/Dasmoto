@@ -21,6 +21,18 @@ h2 {
 	font-weight: bold;
 }
 
+.titleBrush {
+	background-color: mediumspringgreen;
+}
+
+.titleFrames {
+	background-color: lightcoral;
+}
+
+.titlePaint {
+	background-color: skyblue;
+}
+
 .itemPrice {
 	color: blue;
 	font-family: Helvetica;
