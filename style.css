@@ -1,0 +1,15 @@
+h1 {
+	background-image: url("images/pattern.webp");
+	color: khaki;
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+}
