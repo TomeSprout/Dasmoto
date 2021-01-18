@@ -13,3 +13,13 @@ h2 {
 	font-size: 32px;
 	font-weight: bold;
 }
+
+p {
+	font-family: Helvetica;
+}
+
+.itemPrice {
+	color: blue;
+	font-family: Helvetica;
+	font-weight: bold;
+}
